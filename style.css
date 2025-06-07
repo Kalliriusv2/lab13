@@ -1,0 +1,24 @@
+.container-fluid {
+  width: auto;
+}
+
+.bg-img1 {
+  background-image: url("https://www.w3schools.com/w3images/forestbridge.jpg");
+  background-color: #000;
+  background-size: cover;
+  height: 500px;
+}
+
+.bg-img2 {
+  background-image: url("cascade-boat-clean-china-natural-rural.jpg");
+  background-color: #000;
+  background-size: cover;
+  height: 500px;
+}
+
+.bg-img3 {
+  background-image: url("beautiful-strawberry-garden-sunrise-doi-ang-khang-chiang-mai-thailand.jpg");
+  background-color: #000;
+  background-size: cover;
+  height: 500px;
+}
